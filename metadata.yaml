@@ -1,0 +1,42 @@
+_repo: Fifteenth-Century-Prose-and-Verse_30851
+_version: 0.1.0
+alternative_title: 15th Century Prose and Verse
+contributor:
+  commentator:
+    agent_name: Pollard, Alfred W. (Alfred William)
+    aliases:
+    - Pollard, Alfred William
+    - Pollard, A. W. (Alfred William)
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '7475'
+    url: http://www.gutenberg.org/2009/agents/7475
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_W._Pollard
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 1066-1485 -- Sources'
+- !lcsh 'English literature -- Middle English, 1100-1500'
+- !lcc 'PR'
+tableOfContents: 'The siege of Harfleur and the Battle of Agincourt / [by J. Lydgate?]
+  -- The letter of Cupid / by T. Occleve -- A little geste of Robin Hood and his meiny
+  and of the proud sheriff of Nottingham -- English carols, from a manuscript at Balliot
+  College, Oxford -- The examination of Master William Thorpe, priest, of heresy,
+  before Thomas Arundell, Archbishop of Canterbury, 1407 -- The examination of Sir
+  John Oldcastle -- On translating the Bible: chapter XV of the prologue to the second
+  recension of the Wycliffite version -- Dialogue between a lord and a clerk upon
+  translation / by J. Trevisa -- Prefaces and epilogues / by W. Caxton -- A miracle
+  play of the nativity: the pageant of the shearmen and tailors -- Everyman: a moral
+  play -- Pleadings in Rastell v. Walton: a theatrical lawsuit, temp. Henry VIII.'
+title: Fifteenth Century Prose and Verse
+url: http://www.gutenberg.org/ebooks/30851
