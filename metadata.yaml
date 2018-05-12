@@ -16,6 +16,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30851#Fifteenth-Century-Prose-and-Verse
 gutenberg_issued: '2010-01-04'
 gutenberg_type: Text
 identifiers:
